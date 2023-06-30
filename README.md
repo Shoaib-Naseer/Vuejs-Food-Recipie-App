@@ -24,10 +24,9 @@ Food Recipe App is a web application built with Vue.js and Tailwind CSS that all
 
 1. Clone the repository:
 
-   ```
-   git clone https://github.com/Shoaib-Naseer/Vuejs-Food-Recipie-App
-
-   ```
+``` 
+git clone https://github.com/Shoaib-Naseer/Vuejs-Food-Recipie-App
+```
    
 3. Navigate to the project directory:
 
@@ -36,14 +35,12 @@ Food Recipe App is a web application built with Vue.js and Tailwind CSS that all
 
 ```
 npm install
-
 ```
 
 4. Start the development server:
 
 ```
 npm run serve
-
 ```
 
 5. Open your web browser and access the app at `http://localhost:8080` (or the specified port).
